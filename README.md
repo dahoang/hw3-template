@@ -1,11 +1,11 @@
-#HW3 First-Name Last-Name
-TODO - Update your name in this readme.
+#HW3 David Hoang
 
 TODO - Add a badge from travis CI here
 
 ##Problem statement:
 
-Design and implement an ADT that represents a triangle. The data for the ADT must include the three sides of the triangle. This data must be in the private section of the class that implements the ADT.
+Design and implement an ADT that represents a triangle. The data for the ADT must include the three sides of the triangle. This data must be 
+in the private section of the class that implements the ADT.
 
 you must write code in the class **Triangle**, inside `triangle.h` the class **Triangle** inherits from the interface **triangle_interface**
 Include at least two initialization operations(constructors): 
